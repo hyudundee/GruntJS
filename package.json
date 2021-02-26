@@ -9,6 +9,7 @@
   "author": "HYU",
   "license": "ISC",
   "devDependencies": {
-    "grunt": "^1.3.0"
+    "grunt": "^1.3.0",
+    "grunt-contrib-concat": "^1.0.1"
   }
 }
