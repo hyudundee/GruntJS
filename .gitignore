@@ -1,0 +1,5 @@
+# VSCode config
+.dist
+
+# node packages
+node_modules
